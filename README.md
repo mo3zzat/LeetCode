@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/mo3zzat/LeetCode/tree/master/0057-insert-interval) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mo3zzat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## String
 |  |
