@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/mo3zzat/LeetCode/tree/master/0057-insert-interval) |
+| [0238-product-of-array-except-self](https://github.com/mo3zzat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/mo3zzat/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mo3zzat/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2358-number-of-ways-to-split-array](https://github.com/mo3zzat/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mo3zzat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2358-number-of-ways-to-split-array](https://github.com/mo3zzat/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/mo3zzat/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
