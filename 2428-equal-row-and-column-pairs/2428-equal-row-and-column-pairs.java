@@ -1,31 +1,33 @@
 class Solution {
-    List<Integer> getrow(int[][] grid, int in, int n) {
-        List<Integer> x = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            x.add(grid[in][i]);
+    public int equalPairs(int[][] grid) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        int n = grid.length, res = 0;
+        for(int[] a : grid){
+            int hash = getRow(a);
+            map.put(hash,map.getOrDefault(hash,0) + 1);
         }
-        return x;
-    }
-//getting a coloumn
-    List<Integer> getcol(int[][] grid, int in, int n) {
-        List<Integer> x = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            x.add(grid[i][in]);
+
+        for(int i = 0; i < n; i++){
+            int hash = getCol(grid,i);
+            res += map.getOrDefault(hash,0);
         }
-        return x;
+        return res;
     }
 
-    public int equalPairs(int[][] grid) {
-        int c = 0;
-        int n = grid.length;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (getrow(grid, i, n).equals(getcol(grid, j, n)))//checking if they are equal
-                {
-                    c++;
-                }
-            }
+    private int getRow(int[] a){
+        int hash = 0;
+        for (int i : a) {
+            hash = i + hash * 5;
         }
-        return c;
+
+        return hash;
+    }
+
+    private int getCol(int[][] grid,int col){
+        int hash = 0;
+        for(int i = 0; i < grid.length;i++){
+            hash = grid[i][col] + hash * 5;
+        }
+        return hash;
     }
 }
