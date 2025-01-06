@@ -1,20 +1,30 @@
 class Solution {
-    private int minOp(String s,int j){
-        int min = 0;
-        for(int i = 0; i < s.length(); i++){
-            if( i != j){
-                min += (s.charAt(i) - '0') *  Math.abs(i - j);
+    
+    public int[] minOperations(String boxes) {
+        char[] chars = boxes.toCharArray();
+        int n = chars.length;
+        int ans = 0, left = 0, right = 0;
+        for(int i = 0; i < n; i++ ){
+            if(chars[i] == '1'){
+                ans += i;
+                right++;
             }
         }
-        System.out.println(j + "  " + min);
-        return min;
-    }
-    public int[] minOperations(String boxes) {
-        int n = boxes.length();
-        int[] ans = new int[n];
-        for(int i = 0; i < n; i++){
-            ans[i] = minOp(boxes,i);
+        int[] res = new int[n];
+        res[0] = ans;
+        if(chars[0] == '1'){
+            right--;
+            left++;
         }
-        return ans;
+        for(int i = 1; i < n ; i++){
+            ans -= right;
+            ans += left;
+            res[i] = ans;
+            if(chars[i] == '1'){
+                right--;
+                left++;
+            }
+        }
+        return res;
     }
 }
