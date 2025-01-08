@@ -1,15 +1,18 @@
 class Solution {
-    private boolean isPrefixAndSuffix(String s1, String s2){
-        if(s1.length() <s2.length()) return false;
-        return s1.indexOf(s2) == 0 && (s1.lastIndexOf(s2) + s2.length()) == s1.length() ;
-    }
-    public int countPrefixSuffixPairs(String[] words) {
-        int cnt = 0;
-        for(int i = 0; i < words.length; i++){
-            for(int j = i+1; j < words.length;j++){
-                cnt += isPrefixAndSuffix(words[j], words[i]) ? 1 : 0;
+     public int countPrefixSuffixPairs(String[] words) {
+        int res = 0;
+
+        for (int i = 0; i < words.length - 1; i++) {
+            for (int j = i + 1; j < words.length; j++) {
+                if (isPrefixAndSuffix(words[i], words[j])) {
+                    res += 1;
+                }
             }
         }
-        return cnt;
+        return res;
+    }
+
+    boolean isPrefixAndSuffix(String s1, String s2) {
+        return s2.startsWith(s1) && s2.endsWith(s1);
     }
 }
