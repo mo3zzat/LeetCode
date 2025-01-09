@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mo3zzat/LeetCode/tree/master/0011-container-with-most-water) |
 | [0057-insert-interval](https://github.com/mo3zzat/LeetCode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/mo3zzat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/mo3zzat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/mo3zzat/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mo3zzat/LeetCode/tree/master/0605-can-place-flowers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mo3zzat/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/mo3zzat/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/mo3zzat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1319-unique-number-of-occurrences](https://github.com/mo3zzat/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mo3zzat/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mo3zzat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mo3zzat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [2428-equal-row-and-column-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
