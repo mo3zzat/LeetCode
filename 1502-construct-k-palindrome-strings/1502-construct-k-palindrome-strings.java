@@ -1,18 +1,19 @@
 class Solution {
     public boolean canConstruct(String s, int k) {
-        Map<Character, Integer> M = new HashMap<>();
-        int Single = 0;
+        if (s.length() < k) return false;
+        if (s.length() == k) return true;
+        
+        int[] freq = new int[26];
+        int single = 0;
 
-        for (char c : s.toCharArray()) {
-            M.put(c, M.getOrDefault(c, 0) + 1);
+        for(int i = 0; i < s.length(); i++){
+            freq[s.charAt(i) - 'a']++;
         }
 
-        for (int freq : M.values()) {
-            if (freq % 2 == 1) {
-                Single++;
-            }
+        for(int cnt : freq){
+            if(cnt % 2 == 1)
+                single++;
         }
-
-        return Single <= k && k <= s.length();
+        return single <= k;
     }
 }
