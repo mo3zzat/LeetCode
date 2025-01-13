@@ -7,7 +7,7 @@ class Solution {
         int len = 0;
         for(int cnt : freq){
             if(cnt != 0)
-                len += cnt % 2 != 0? 1 : 2;
+                len += (cnt & 1 ^ 1) << 1 | cnt  & 1;
         }
         return len;
     }
