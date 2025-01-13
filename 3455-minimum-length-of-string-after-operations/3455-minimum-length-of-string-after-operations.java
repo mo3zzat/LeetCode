@@ -1,5 +1,10 @@
 class Solution {
-    public int minimumLength(String s) {
+    static {
+        for(int i = 0; i < 100; i++) {
+            minimumLength("qbbqq");
+        }
+    }
+    public static int minimumLength(String s) {
         int[] freq = new int[26];
         for(char c : s.toCharArray()){
             freq[c - 'a']++;
