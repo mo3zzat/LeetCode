@@ -6,7 +6,7 @@ class Solution {
     }
     public static int minimumLength(String s) {
         int[] freq = new int[26];
-        for(char c : s.toCharArray()){
+        for(byte c : s.getBytes()){
             freq[c - 'a']++;
         }
         int len = 0;
