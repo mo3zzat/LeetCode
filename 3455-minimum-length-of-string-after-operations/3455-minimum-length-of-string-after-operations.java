@@ -11,8 +11,8 @@ class Solution {
         }
         int len = 0;
         for(int cnt : freq){
-            if(cnt != 0)
-                len += (cnt & 1 ^ 1) << 1 | cnt  & 1;
+            if(cnt == 0) continue;
+            len += (cnt & 1 ^ 1) << 1 | cnt  & 1;
         }
         return len;
     }
