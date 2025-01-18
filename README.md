@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mo3zzat/LeetCode/tree/master/0136-single-number) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mo3zzat/LeetCode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mo3zzat/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/mo3zzat/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mo3zzat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
