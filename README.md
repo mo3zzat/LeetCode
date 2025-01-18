@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/mo3zzat/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/mo3zzat/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/mo3zzat/LeetCode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/mo3zzat/LeetCode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/mo3zzat/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/mo3zzat/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mo3zzat/LeetCode/tree/master/0605-can-place-flowers) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mo3zzat/LeetCode/tree/master/0162-find-peak-element) |
 | [1046-max-consecutive-ones-iii](https://github.com/mo3zzat/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
