@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mo3zzat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mo3zzat/LeetCode/tree/master/0437-path-sum-iii) |
+| [0820-find-eventual-safe-states](https://github.com/mo3zzat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/mo3zzat/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1396-count-servers-that-communicate](https://github.com/mo3zzat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mo3zzat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mo3zzat/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/mo3zzat/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/mo3zzat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/mo3zzat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mo3zzat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mo3zzat/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/mo3zzat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mo3zzat/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/mo3zzat/LeetCode/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/mo3zzat/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
