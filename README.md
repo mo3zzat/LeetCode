@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mo3zzat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2050-count-good-numbers](https://github.com/mo3zzat/LeetCode/tree/master/2050-count-good-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mo3zzat/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/mo3zzat/LeetCode/tree/master/0394-decode-string) |
+| [2050-count-good-numbers](https://github.com/mo3zzat/LeetCode/tree/master/2050-count-good-numbers) |
 ## Linked List
 |  |
 | ------- |
