@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/mo3zzat/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/mo3zzat/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/mo3zzat/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/mo3zzat/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mo3zzat/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/mo3zzat/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mo3zzat/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/mo3zzat/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/mo3zzat/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mo3zzat/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mo3zzat/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2050-count-good-numbers](https://github.com/mo3zzat/LeetCode/tree/master/2050-count-good-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/mo3zzat/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/mo3zzat/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mo3zzat/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2448-count-number-of-bad-pairs](https://github.com/mo3zzat/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/mo3zzat/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Matrix
 |  |
